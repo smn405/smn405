@@ -1,11 +1,14 @@
-Hi, I'm Santiago 👋
-I'm a data scientist and engineer interested in turning messy, real-world data into systems that support better decisions.
-My work sits at the intersection of machine learning, forecasting, optimization, and applied AI, with a particular interest in operational and infrastructure problems.
-I've worked on problems including time-series forecasting, large-scale predictive inference, recommendation systems, and constrained optimization, from problem definition through production and measurement.
-Currently exploring how AI-assisted development can make it faster to go from an idea to a useful, working system.
+# 👋 Hi, I'm Santiago Novoa
 
-📍 New York
-🔗 LinkedIn
+👀 **Interested in:** Machine Learning, Forecasting, Optimization & Applied AI
+
+⚙️ **I like building:** Models that make decisions, not just predictions
+
+🏗️ **Domains:** Infrastructure, Energy & large-scale operational systems
+
+🤖 **Currently exploring:** AI-assisted development & agentic workflows
+
+📫 **Find me:** [LinkedIn](https://linkedin.com/in/santiago-m-novoa/)
 
 <!---
 smn405/smn405 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
